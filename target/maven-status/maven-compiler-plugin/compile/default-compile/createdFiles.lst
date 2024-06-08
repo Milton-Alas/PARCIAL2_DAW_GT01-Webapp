@@ -1,0 +1,5 @@
+ma_webapp/resources/App.class
+ma_webapp/entidades/Alumno.class
+ma_webapp/resources/Recurso.class
+ma_webapp/negocio/DataService.class
+ma_webapp/contraladores/indexController.class
